@@ -1,0 +1,41 @@
+1. Write a program to print Hello Students on the screen.
+Ans :- printf(" Hello");
+
+2. Write a program to print Hello in the first line and Students in the second line.
+Ans :- printf("Hello\nStudents");
+
+3. Write a program to print “MySirG” on the screen. (Remember to print in double quotes
+e.)
+Ans :- printf(" \"MySirG\" ");
+
+6. WAP to print the name of the user in double quotes.
+Ans :- printf(" \" hello, Amit Kumar \" " );
+
+7. WAP to print “%d” on the screen
+Ans:- #include<stdio.h>
+int main()
+{
+	int a;
+	printf(" Enter a value of a is ");
+	scanf("%d",&a);
+	return 0;
+}
+
+8. WAP to print “\n” on the screen.
+Ans:- printf("hello\nStudents");
+            printf("\n");
+
+9. WAP to print “\\” on the screen.
+Ans:- printf("hello\\ \\Students");
+
+12. Find output of below code:
+int main()
+{ 
+int x = printf(“ineuron”);
+printf(“%d”,x);
+return 0;
+}
+Ans :-error.
+ 
+
+dosent solve 4,5,9,10,11 place explain this 
